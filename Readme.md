@@ -5,3 +5,8 @@
     * [学习方法笔记](https://github.com/hermanxie/Learn-notes/blob/master/Readbook-notes/Learn_methods.md)
     * [股市长线法宝](https://github.com/hermanxie/Learn-notes/blob/master/Readbook-notes/Stocks_for_the_long_run.md)
 2. [Program-notes](https://github.com/hermanxie/Learn-notes/tree/master/Program-notes)
+
+
+
+----
+* [**急用情况下电子书下载地址**](http://www.lingocn.com/)
