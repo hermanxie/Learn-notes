@@ -4,6 +4,6 @@
 
 [**2. CSDN**](https://www.csdn.net/): 程序员的博客、论坛汇聚地。
 
-[**3. Youtube视频下载网站**](https://www.youtubeconverter.io/en2): 可以将youtube视频转换成mp3、mp4等可供下载的文件。
+[**3. Youtube视频下载网站**](https://www.youtubeconverter.io/en2): 可以将youtube视频转换成mp3、mp4等可供下载的文件。  
 
-
+[**4. 急用情况下电子书下载地址**](http://www.lingocn.com/)
