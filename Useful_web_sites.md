@@ -11,3 +11,9 @@
 [**5. 电子书下载二**](https://www.xgv5.com/24.html)
 
 [**6. 电子书下载三**](https://epubw.com/)
+
+[**7. 如何使用搜索引擎**](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html): 教你如何使用Google搜索。
+
+[**8. Stackoverflow**](https://stackoverflow.com/): 各种编程问题解答。
+
+[**9. How to ask questions The smart way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md): 提问的智慧。
