@@ -14,6 +14,9 @@
 
 [**7. 如何使用搜索引擎**](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html): 教你如何使用Google搜索。
 
-[**8. Stackoverflow**](https://stackoverflow.com/): 各种编程问题解答。
+[**8. StacExchange**](https://stackoverflow.com/): 各种编程问题解答。  
+* [SuperUser](https://superuser.com/): 问一些通用的电脑问题
+* [SeverFault](https://serverfault.com/): 问服务器和网管相关的问题
+* [Stackoverflow](https://stackoverflow.com/): 问写程序有关的问题
 
-[**9. How to ask questions The smart way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md): 提问的智慧。
+[**9. How to ask questions The smart way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md): 提问的智慧
