@@ -119,3 +119,6 @@
     >* 有什么内容是必须有的、应该有的？  
     >* 我写的这个内容，十年后人们再看，还会觉得跟新的一样有用嘛？  
     >* 我的书名，就那么放在那里，会直接让买家产生不由自主购买的吸引力吗？
+
+总结：以一张图呈现。  
+![李笑来写作方法论](https://github.com/hermanxie/Learn-notes/blob/master/images/Write_method.jpg)
