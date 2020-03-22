@@ -20,3 +20,5 @@
 * [Stackoverflow](https://stackoverflow.com/): 问写程序有关的问题
 
 [**9. How to ask questions The smart way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md): 提问的智慧
+
+[**10. 乐高散件购买**](https://item.taobao.com/item.htm?spm=2013.1.0.0.4c3156dbuYOL25&id=42929923254&scm=1007.12144.95220.42296_0_0&pvid=ac7f1542-8316-4cc3-90e3-b90450c85479&utparam=%7B%22x_hestia_source%22%3A%2242296%22%2C%22x_object_type%22%3A%22item%22%2C%22x_mt%22%3A0%2C%22x_src%22%3A%2242296%22%2C%22x_pos%22%3A3%2C%22x_pvid%22%3A%22ac7f1542-8316-4cc3-90e3-b90450c85479%22%2C%22x_object_id%22%3A42929923254%7D) : 淘宝店铺，乐高散件分类购买
