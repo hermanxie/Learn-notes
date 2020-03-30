@@ -24,3 +24,9 @@
 
 [**9. Worldometer**](https://www.worldometers.info/): 一个非常有趣的，全面的关于世界人口数据的网站  
 * [**世界各国统计数据网站列表**](https://www.worldometers.info/sources/)
+
+[**10. 世界名校在线课程平台**](https://about.coursera.org/) :非常棒的在线学习平台，来自世界一流大学和公司的顶级讲师教授，并且可以获得文凭。
+* [**耶鲁大学：幸福的科学**](https://www.coursera.org/learn/the-science-of-well-being/home/welcome)
+* [**学会如何学习**](https://www.coursera.org/learn/ruhe-xuexi#syllabus)
+* [**Python入门**](https://www.coursera.org/learn/python?specialization=python#syllabus)
+* [**如何安装Coursera下载器**](https://github.com/coursera-dl/coursera-dl#coursera-downloader)
