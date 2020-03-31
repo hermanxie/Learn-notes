@@ -29,3 +29,10 @@
 通常，到达了某个程度后，隐喻会停止发挥作用。这时候你可以直接**把它抛开**，再找到一个**新的隐喻**来帮助你更深入地理解。
 
     >智慧比金钱更重要。人生就像一出戏：每个人都在扮演不同的角色，在某种程度上都是在表演。
+
+    >[**The Feynman Technique**](https://www.youtube.com/watch?v=tkm0TNFzIeg)  
+    Here his unique technique to learn new materials:  
+    Step 1. Choose a topic you want to understand and start studying it. Once you know what it is about, take a piece of paper and write the topic at the top of the page.  
+    Step 2. Pretend you’re teaching the idea to someone else. Write out an explanation on paper while you describe them out loud. Like this, you get an idea of what you understand and where you still have gaps. Whenever you get stuck, go back and study. Repeat that process until you can explain it.  
+    Step 3. Finally, do it again, but now simplify your language or use an analogy to make the point. If your explanation ends up wordy and confusing, that’s an indication that you do not understand the idea well enough. If that happens, go back until you have mastered it.  
+    It is the process of thinking about an idea while teaching it that makes the method so effective. Once you can explain an idea with simple language and create graphic analogies, you have deeply understood it and will remember it for a long time.
