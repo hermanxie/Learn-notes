@@ -30,7 +30,7 @@
 
     >智慧比金钱更重要。人生就像一出戏：每个人都在扮演不同的角色，在某种程度上都是在表演。
 
-    >[**The Feynman Technique**](https://www.youtube.com/watch?v=tkm0TNFzIeg)  
+    >[**费曼学习法 The Feynman Technique**](https://www.youtube.com/watch?v=tkm0TNFzIeg)  
     Here his unique technique to learn new materials:  
     Step 1. Choose a topic you want to understand and start studying it. Once you know what it is about, take a piece of paper and write the topic at the top of the page.  
     Step 2. Pretend you’re teaching the idea to someone else. Write out an explanation on paper while you describe them out loud. Like this, you get an idea of what you understand and where you still have gaps. Whenever you get stuck, go back and study. Repeat that process until you can explain it.  
