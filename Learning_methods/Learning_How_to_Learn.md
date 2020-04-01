@@ -38,3 +38,23 @@
     It is the process of thinking about an idea while teaching it that makes the method so effective. Once you can explain an idea with simple language and create graphic analogies, you have deeply understood it and will remember it for a long time.
 
     ![费曼学习方法图解](https://github.com/hermanxie/Learn-notes/blob/master/images/Feynman_learning.jpg)
+
+### 三、记忆的方法：
+* 记忆分为**工作记忆**和**长时记忆**，就像电脑的内存与硬盘空间一样的关系。
+
+* [**尼尔森·德里斯的记忆方法**](https://www.youtube.com/watch?v=0Q0we4LjSws) ：    
+        1. 专注——提醒自己集中注意力；  
+    2. 可以练习——平时练习记电话号码等；  
+    3. 图像——想象事物的画面；  
+    4. 锚定——和已知事物关联起来；  
+    5. 回忆——反复调取信息。
+
+    “**记忆宫殿**”技巧：用一个自己熟悉的地方作为记忆工具，比如自己的家，把你需要记忆的东西“放”在家中的各个地方，并把它们形象化，以便你可以和它们对话交流。
+
+* **大脑链接组**：你的工作记忆**理解**了**一个新概念**，然后你**练习使用**这个新概念，过了一段时间，对新概念的应用就显得自然而轻松了，那时就创造了**一组大脑链接**。**理解与练习相辅相成**。  
+>大脑链接组又可以和其他大脑链接组连接起来，形成更长的大脑链接组。这些链接组就被安放在你的长时记忆中。专家可以迅速将大量互相关联的链接组连接来。  
+【大脑链接组就像一张大网上的节点，每个节点下方都是一个链接组。知识越多，并且能够做到触类旁通，就会编制越大的网。如果知识之间不能连接，就像网上破了一个洞似的，节点就会失去意义。所以，知识也是需要修补的。】
+
+* 当你学习一样新东西时，必须排除所有干扰，集中注意力。
+
+* 运动有助于产生一种化学物质（脑源性神经营养因子），它就像是大脑的食物。
