@@ -36,3 +36,5 @@
     Step 2. Pretend you’re teaching the idea to someone else. Write out an explanation on paper while you describe them out loud. Like this, you get an idea of what you understand and where you still have gaps. Whenever you get stuck, go back and study. Repeat that process until you can explain it.  
     Step 3. Finally, do it again, but now simplify your language or use an analogy to make the point. If your explanation ends up wordy and confusing, that’s an indication that you do not understand the idea well enough. If that happens, go back until you have mastered it.  
     It is the process of thinking about an idea while teaching it that makes the method so effective. Once you can explain an idea with simple language and create graphic analogies, you have deeply understood it and will remember it for a long time.
+
+    ![费曼学习方法图解](https://github.com/hermanxie/Learn-notes/blob/master/images/Feynman_learning.jpg)
