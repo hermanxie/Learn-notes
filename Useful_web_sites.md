@@ -30,5 +30,6 @@
 * [**学会如何学习**](https://www.coursera.org/learn/ruhe-xuexi#syllabus)
 * [**Python入门**](https://www.coursera.org/learn/python?specialization=python#syllabus)
 * [**如何安装Coursera下载器**](https://github.com/coursera-dl/coursera-dl#coursera-downloader)
+* [**突破学习障碍，发现你的隐藏潜力**](https://www.coursera.org/learn/mindshift#syllabus)
 
 [**11. FamousScientists**](https://www.famousscientists.org/) ：世界著名的科学家。
