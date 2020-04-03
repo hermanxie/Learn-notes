@@ -38,7 +38,7 @@
     It is the process of thinking about an idea while teaching it that makes the method so effective. Once you can explain an idea with simple language and create graphic analogies, you have deeply understood it and will remember it for a long time.
 
     ![费曼学习方法图解](https://github.com/hermanxie/Learn-notes/blob/master/images/Feynman_learning.jpg)
-
+---
 ### 三、记忆的方法：
 * 记忆分为**工作记忆**和**长时记忆**，就像电脑的内存与硬盘空间一样的关系。
 
@@ -61,7 +61,7 @@
 
 * **刻意练习**：专注于练习对你来说**最难**的知识。
 * **交叉学习**：练习你所要学习的事物的**不同方面**，以便能理解**不同方法之间的差别**。
-
+---
 ### 四、养成一些学习的行为习惯
 
 >* 在不同的地方学习，比如客厅、卧室、书房等；   
@@ -72,3 +72,6 @@
 >* 坚持记每天的日志；并回顾当天：哪些做得好，为什么？哪些做得不好，出了什么问题？下一步如何改进？  
 
 * **学习迁移**：你在一个区域建立的大脑链接能让你更轻松的在另一个区域建立链接。例如，学习打棒球可以帮助你学会很多球类运动——并且最终可以帮助你更好的理解物理学。学习物理可以帮助你学习经济学，以及学习如何创造更美的陶器……将自己的想法从一个主题或活动迁移到另一个上面，有助于提高你的创造力。【这也是“融会贯通”的一种验证吧】
+---
+* **全书总结如下：**  
+![**全书总结:**](https://github.com/hermanxie/Learn-notes/blob/master/images/%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0.jpg)
