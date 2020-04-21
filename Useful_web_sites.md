@@ -33,3 +33,5 @@
 * [**突破学习障碍，发现你的隐藏潜力**](https://www.coursera.org/learn/mindshift#syllabus)
 
 [**11. FamousScientists**](https://www.famousscientists.org/) ：世界著名的科学家。
+
+[**12. 李笑来老师的书**](http://xiaolai.co/search):传播李笑来老师的思想。
