@@ -39,3 +39,7 @@
 **13. 图片资源网站：**  
 * [**EnvatoMarket**](https://graphicriver.net/): PS动作、滤镜下载网站。
 * [**FreePik**](https://www.freepik.com/): 图片下载网站。
+
+[**13.心理学网站psychologytoday**](https://www.psychologytoday.com/us/basics/self-control): 
+
+[**14.学习网站**](https://xue.cn/hub/):一个超牛逼的有关编程的书籍汇总网站。

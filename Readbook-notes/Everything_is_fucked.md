@@ -210,6 +210,8 @@
 
 我们必须让感觉的大脑去感觉，但要否认它所渴望的意义和价值的故事。我们必须超越我们的善恶观念。我们必须学会去爱。
 
+---
+
 ## 第二部 所有事情都是操蛋的
 
 ### 第六章 人性公式
@@ -256,4 +258,7 @@
 * 成年人的行为最终被认为是令人钦佩和值得注意的：是老板为员工的错误承担责任；是母亲为了孩子的幸福放弃自己的幸福；是作为朋友告诉你需要听的话，即便这些话会让你心烦。  
 正是这些人把世界维系在一起。没有他们，我们都有可能完蛋。
 
+4. **生活的唯一准则**  
+在康德看来，我们与宇宙中其他物质的唯一区别在于我们的推理能力——我们能够掌控周围的世界，并通过推理和意志来改进它。
 
+    >因此，康德从逻辑上巧妙地推论出，宇宙中最高的价值是**构想**价值本身的东西。存在的唯一真正意义是**形成意义的能力**。唯一重要的是**决定重要的东西**。（Therefore, Kant cleverly deduced that, logically, the supreme value in theuniverse is the thing that conceives of value itself. The only true meaning inexistence is the ability to form meaning. The only importance is the thing thatdecides importance）
