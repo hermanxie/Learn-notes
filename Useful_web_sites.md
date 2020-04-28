@@ -4,7 +4,10 @@
 
 [**2. CSDN**](https://www.csdn.net/): 程序员的博客、论坛汇聚地。
 
-[**3. Youtube视频下载网站**](https://www.youtubeconverter.io/en2): 可以将youtube视频转换成mp3、mp4等可供下载的文件。  
+**3. 在线视频下载工具：**
+* [**Youtube视频下载**](https://www.youtubeconverter.io/en2): 可以将youtube视频转换成mp3、mp4等可供下载的文件。  
+* [**Twitter视频下载**](http://twittervideodownloader.com/)
+
 4. **电子书下载地址：**  
 * [**4.1. 电子书下载一：好资源分享平台**](http://www.lingocn.com/)  
 * [**4.2. 电子书下载二:PDF电子书网**](https://www.xgv5.com/24.html)  
@@ -43,3 +46,9 @@
 [**13.心理学网站psychologytoday**](https://www.psychologytoday.com/us/basics/self-control): 
 
 [**14.学习网站**](https://xue.cn/hub/):一个超牛逼的有关编程的书籍汇总网站。
+
+[**15. Medium 博客网站**](https://medium.com/): 博客网
+
+**16. 关于Python与设计的资料**
+* [**Python for Designers**](https://pythonfordesigners.com/)
+* [**DrawBot 软件**](http://www.drawbot.com/)
