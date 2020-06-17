@@ -52,3 +52,10 @@
 **16. 关于Python与设计的资料**
 * [**Python for Designers**](https://pythonfordesigners.com/)
 * [**DrawBot 软件**](http://www.drawbot.com/)
+
+**17. TED演讲网站**
+* [**文字版**](https://ideas.ted.com/)
+* [**演讲视频**](https://www.ted.com/)
+
+**18. 古登堡计划**：一个免费的世界电子书图书馆
+* [**古登堡计划网站**](http://www.gutenberg.org/wiki/Main_Page)
