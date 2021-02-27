@@ -15,6 +15,7 @@
 * [**4.4. 电子书下载四:Inrtnet Archive**](https://archive.org/)
 * [**4.5. 电子书下载五:epubee** Cloud ID:50922682
 ](http://cn.epubee.com/files.aspx?aff=52754323&prom=0)
+* [**4.6. 电子期刊下载六:Magazinelib**](https://magazinelib.com/)
 
 [**5. 如何使用搜索引擎**](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html): 教你如何使用Google搜索
 
